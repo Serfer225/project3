@@ -1,0 +1,13 @@
+body{
+    background-color: bisque    ;
+}
+table{
+    background-color: rgb(199, 181, 154);
+}
+img{
+    width: 200px;
+    height: 150px;  
+}
+td:hover{
+
+}
